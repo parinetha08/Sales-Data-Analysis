@@ -17,4 +17,10 @@ This project analyzes retail sales data using Python Pandas.
 - CSV Dataset
 
 ## Project Output
-![Output](output1.png)
+![Output](1.png)
+![Output](2.png)
+![Output](3.png)
+![Output](4.png)
+![Output](5.png)
+![Output](6.png)
+![Output](7.png)
