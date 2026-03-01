@@ -93,10 +93,7 @@ Give it a ⭐ on GitHub!
 
 
 ## Project Output
-![Output](1.png)
-![Output](2.png)
-![Output](3.png)
-![Output](4.png)
-![Output](5.png)
-![Output](6.png)
-![Output](7.png)
+![Output](s1.png)
+![Output](s2.png)
+![Output](s3.png)
+
